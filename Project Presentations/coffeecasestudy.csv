@@ -1,0 +1,92 @@
+Row Labels,Sum of total_revenue,
+Jan,"R26,543.43",
+Feb,"R25,320.05",
+Mar,"R32,888.68",
+Apr,"R39,159.33",
+May,"R51,700.07",
+Jun,"R54,445.69",
+Grand Total,"R230,057.25",
+,,
+,,
+,,
+,,
+Row Labels,Count of transaction_id,
+Sun,6679,
+Mon,7136,
+Tue,6698,
+Wed,6767,
+Thu,6920,
+Fri,6860,
+Sat,6722,
+Grand Total,47782,
+,,
+,,
+,,
+,,
+Row Labels,Count of transaction_id,
+6 AM,2918,
+7 AM,5792,
+8 AM,5779,
+9 AM,5914,
+10 AM,6297,
+11 AM,2755,
+12 PM,2828,
+1 PM,2633,
+2 PM,2860,
+3 PM,3051,
+4 PM,2803,
+5 PM,2525,
+6 PM,1427,
+7 PM,125,
+8 PM,75,
+Grand Total,47782,
+,,
+,,
+,,
+,,
+Row Labels,Count of transaction_id,
+Coffee,18204,
+Tea,13912,
+Bakery,7890,
+Drinking Chocolate,3405,
+Flavours,2930,
+Coffee beans,531,
+Loose Tea,381,
+Branded,349,
+Packaged Chocolate,180,
+Grand Total,47782,
+,,
+,,
+,,
+,,
+Row Labels,Count of transaction_id,Sum of total_revenue
+Barista Espresso,5320,"R31,051.00"
+Gourmet brewed coffee,5217,"R23,201.20"
+Brewed Chai tea,5066,"R24,008.75"
+Brewed Black tea,3611,"R16,215.50"
+Brewed herbal tea,3535,"R15,994.50"
+Scone,3506,"R12,660.67"
+Hot chocolate,3405,"R22,494.50"
+Premium brewed coffee,2617,"R12,907.00"
+Organic brewed coffee,2575,"R12,009.30"
+Drip coffee,2475,"R9,817.00"
+Pastry,2409,"R8,890.49"
+Regular syrup,2100,"R2,614.40"
+Biscotti,1975,"R6,777.78"
+Brewed Green tea,1700,"R7,646.00"
+Sugar free syrup,830,"R1,152.80"
+Housewares,263,"R3,800.00"
+Organic Beans,162,"R3,366.00"
+Chai tea,142,"R1,397.30"
+Gourmet Beans,116,"R2,214.00"
+Black tea,99,R886.05
+Premium Beans,93,"R3,124.50"
+Drinking Chocolate,91,R942.76
+Organic Chocolate,89,R676.40
+Clothing,86,"R2,408.00"
+Espresso Beans,77,"R1,312.45"
+Green tea,73,R675.25
+Herbal tea,67,R599.65
+House blend Beans,48,R864.00
+Green beans,35,R350.00
+Grand Total,47782,"R230,057.25"
